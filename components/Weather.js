@@ -44,7 +44,7 @@ export default function Weather(props) {
             height: '100%'
             },
         zipCodeStyle: {
-                color: '#665954',
+                color: '#FFFFFF',
                 paddingTop: 10,
                 fontSize: 20,
                 textAlign: 'center'

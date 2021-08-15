@@ -15,17 +15,17 @@ const styles = StyleSheet.create({
     mainStyle: {
         textAlign: 'center',
         marginTop: 180,
-        color: '#665954'
+        color: '#FFFFFF'
     },
     tempStyle: {
         textAlign: 'center',
         fontSize: 30,
-        color: '#665954',
+        color: '#FFFFFF',
         fontWeight: 'bold'
     },
     descriptionStyle: {
         textAlign: 'center',
-        color: '#665954'
+        color: '#FFFFFF'
     }
 })
    
